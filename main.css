@@ -1,0 +1,281 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    background-color: rgb(34, 222, 150);}
+
+
+
+header{
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.61) 1px, rgba(93, 227, 106, 0.867));
+    height: 250px;
+    width:1480px;
+    margin-left: -7px;
+    margin-top: -22px;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.442);}
+
+
+
+
+
+header > h1{
+    text-align: center;
+    padding-top: 30px;
+    color: aliceblue;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.674);}
+
+
+
+
+
+header > p{
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 10px;
+    padding-top: -10px;
+    margin-top: 80px;
+    color: aliceblue;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.674);
+    font-family: sans-serif;}
+
+
+
+
+
+header > a{
+    color: black;
+    margin-left: 15px;
+    display: inline;
+    margin-top: 6px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder ;
+    color: aliceblue;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.674);}
+
+
+
+
+a:hover{
+    background-color: rgba(250, 235, 215, 0.319);
+    border-radius: 5px;
+    padding: 5px;}
+
+
+
+
+
+main{
+    background-color: white;
+    height: 1950px;
+    width: 1130px;
+    margin-left: 180px;
+    margin-top: -33px;
+    margin-bottom: 40px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.442);}
+
+
+main > .titulos{
+    padding-left: 90px;
+    padding-top: 50px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color:  rgb(30, 141, 73);
+    text-shadow: 1px 1px 1px rgba(61, 61, 61, 0.711); }
+
+
+
+main > .texto1{
+    text-align: center;
+    font-size: 18px;
+    padding-left: 90px;
+    padding-right: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+
+
+
+.destaque{
+
+    color:  rgb(30, 141, 73);
+    text-decoration: none;}
+
+
+main > .titulos2{
+    background-image: linear-gradient(to right,  rgba(30, 141, 73, 0.379), rgba(255, 255, 255, 0));
+    padding-left: 90px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color:  rgb(30, 141, 73);
+    text-shadow: 1px 1px 1px rgba(61, 61, 61, 0.711);
+
+}
+
+main > .dandroid{
+  
+
+    padding-left: 170px;}
+
+main > .irina{
+
+    padding-left: 170px;}
+
+
+main > .bugdroid{
+
+    padding-left: 350px;
+    width: 500px;
+}
+
+
+.verde{
+
+    height: 650px;
+    width: 1130px;
+    margin-left: 180px;
+    margin-top: -53px;
+    margin-bottom: -500px;
+    background-color: rgb(30, 141, 73);
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.442);
+
+}
+
+.verde > video{
+    height: 500px;
+    margin-left: 120px;
+    margin-top: 85px;}
+
+
+
+
+.branco2{
+
+    border-radius: 0px 0px 8px 8px;
+    display: flex;
+   height: 700px;
+   width: 1130px;
+   margin-left: 180px;
+    margin-top: 500px;
+    margin-bottom: 100px;
+   background-color: white;
+   box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.442);}
+
+
+
+
+
+
+.verdeclaro{
+
+    
+    height: 500px;
+    width: 1080px;
+    background-color: rgba(144, 238, 144, 0.455);
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px  rgba(0, 0, 0, 0.442);
+    margin-bottom: 270px;}
+
+
+.quer{
+
+    background-color: rgb(40, 168, 95);
+    color: aliceblue;
+    font-size: 28px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    margin-top: -0px;
+    border-radius: 10px 10px 0px 0px;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.14);
+}
+
+
+
+.outro{
+
+    margin-top: 0px;
+    font-size: 20px;
+    text-indent: 40px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.listaesquerda{
+    font-size: 18px;
+}
+
+
+.linhadestaque{
+
+    text-decoration: underline;
+    font-weight:100;
+
+}
+
+.listacentro{
+
+
+    text-align: center;
+    margin-top: -151.3px;
+    margin-left: 550px;
+    list-style-position: inside;
+    font-size: 18px;
+
+}
+
+.infelizmente{
+
+    font-size: 20px;
+    text-align: center;
+    text-indent: 7px;
+    font-family: sans-serif;
+}
+
+.acesse{
+
+    font-size: 20px;
+    text-align: center;
+    text-indent: 8px;
+    font-family: sans-serif;
+
+}
+
+.destaqueverde{
+
+    color: forestgreen;
+}
+
+.entao{
+
+    margin-top: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.rodapé{
+
+    background-color: rgb(48, 131, 83);;
+    display: block;
+    text-align: center;
+    padding-top: 10px;
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 20px;
+
+
+}
+
+.roda{
+
+    background-color: rgb(48, 131, 83);
+    height: 40px;
+    width: 1500px;
+    align-items: center;
+    margin: auto;
+    margin-right: 100px;
+    margin-bottom: -100px;
+}
